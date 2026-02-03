@@ -82,4 +82,4 @@ These projects are part of my M.Sc. Medical Bioinformatics curriculum at Sri Ram
 ## Connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/sabiha-patan)
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:patansabiha786@gmail.com)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:ps.patansabiha@gmail.com)
